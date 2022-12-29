@@ -1,0 +1,32 @@
+Qa: 
+When B+Tree used, the cost of searching Suppliers is: 5
+['s23', 'Walsh', '21 Queens Road']
+Qb: 
+When B+Tree not used, the cost of searching Suppliers is: 26
+sid  sname  address
+['s23', 'Walsh', '21 Queens Road']
+Qc: 
+pid  address
+['p15', '12 Water Street']
+['p15', '20 Scott Street']
+['p15', '100 Main Road']
+['p15', '70 Forest Road']
+Qd: 
+pid  sname  cost
+['p20', 'Kiddie', 28.82]
+Qe: 
+sname  pname  cost
+['Kieley', 'matherboard', 47.03]
+['Kiddie', 'usb', 47.12]
+['Carter', 'screwdriver', 47.27]
+['Carter', 'vacuum', 47.3]
+['Evans', 'switch', 47.3]
+['Edward', 'monitor', 47.62]
+['Lee', 'fan', 47.81]
+['kielly', 'kettle', 48.01]
+['Carew', 'paint', 48.57]
+['Brown', 'shovel', 48.78]
+['Walsh', 'sofa', 48.82]
+['Wang', 'siding', 49.39]
+['Zhang', 'flashlight', 49.45]
+['Newwll', 'air conditioner', 49.66]
